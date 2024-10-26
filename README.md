@@ -4,4 +4,6 @@
     * 旁观输入 !light 或者按 F 键来打开附着在自己身上的灯光, 仅自己可见, 适合解说等;
     * 设置Cvar: spec_function_talk 为 1 在游戏开始后将旁观的全体发言转为旁观阵营发言.
 * [l4d2_whisper.sp](https://github.com/cy115/My-Public-Plugins/blob/main/l4d2_whisper.sp) 对某人说悄悄话;
-    * !to "目标名字" "要说的话" 对某人说悄悄话;
+    * !to "目标名字" "要说的话" 对某人说悄悄话.
+* [mixrd.sp](https://github.com/cy115/My-Public-Plugins/blob/main/mixrd.sp) 回合开始随机分队;
+    * 自动生效, 自动移动玩家到旁观, 然后随机分配到两个阵营.
